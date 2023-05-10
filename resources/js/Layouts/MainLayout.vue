@@ -7,7 +7,7 @@
   </div>
   <slot>Default</slot>
 </template>
-
+hhh
 <script setup>
 import { computed } from 'vue'
 // import { Link, usePage } from '@inertiajs/inertia-vue3'
